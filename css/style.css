@@ -1,10 +1,15 @@
+:root {
+    --primary-color: #6f4037;
+}
+
+
 .nav-wrapper{
-    background-color: #6f4037;
+    background-color: var(--primary-color);
 }
 
 
 .slider .indicators .indicator-item.active{
-    background-color: #6f4037;
+    background-color:var(--primary-color);
 }
 
 .move{
@@ -18,11 +23,11 @@
 }
 
 .icon-coffee {
-    color:#6f4037;
+    color: var(--primary-color);
 }
 
 .footer-one {
-    background: #6f4037;
+    background: var(--primary-color);
 }
 
 .footer-two {
