@@ -8,7 +8,7 @@ $(document).ready(function(){
         numVisible: 7,
         shift: 55,
         padding: 55,
-    });
+    });   
 });
 
 function toggleModal(){

@@ -2,6 +2,10 @@
     --primary-color: #6f4037;
 }
 
+html {
+    font-family: 'Bree Serif', serif;
+}
+
 
 .nav-wrapper{
     background-color: var(--primary-color);
